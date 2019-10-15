@@ -10,7 +10,7 @@ namespace FormsExample
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ContentPage();
         }
 
         protected override void OnStart()
